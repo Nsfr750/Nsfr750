@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://tuxxle.,org/">Nsfr750</a></h1>
+<h1 align="center"><a href="https://tuxxle.org/">Nsfr750</a></h1>
 
 <p align="center">
   <a href="https://github.com/Nsfr750"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-5A5A5A?style=flat&labelColor=5A5A5A&logo=github&logoColor=white"/></a>
